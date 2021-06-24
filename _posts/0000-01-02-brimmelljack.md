@@ -2,5 +2,5 @@
 layout: slide 
 title: "welcome to our second slide"
 ----
-your test. this is my text JB
+You miss 100% of the shots you don't take - Wayne Gretzky - Michael Scott
 Use the LEFT arrow to go back!
